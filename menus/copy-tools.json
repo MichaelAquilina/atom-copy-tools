@@ -1,0 +1,14 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Copy Relative Path",
+        "command": "copy-tools:copy-relative-path"
+      },
+      {
+        "label": "Copy Relative Path and Line",
+        "command": "copy-tools:copy-relative-path-and-line"
+      }
+    ]
+  }
+}

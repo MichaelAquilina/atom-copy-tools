@@ -1,0 +1,16 @@
+{
+  "name": "copy-tools",
+  "main": "./lib/copy-tools",
+  "version": "0.0.0",
+  "description": "Copy useful editor information straight into your clipboard",
+  "keywords": [
+    "editor", "copy", "tool"
+  ],
+  "repository": "https://github.com/MichaelAquilina/atom-copy-tools",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
