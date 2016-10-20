@@ -3,8 +3,8 @@
 Simple Package that allows you to copy various pieces of information into your clipboard.
 
 Currently these two commands are supported:
-* Copy relative path of current file into clipboard
-* Copy relative path _and_ current line number into clipboard (e.g. lib/copy-tools.js)
+* Copy relative path of current file into clipboard (e.g. lib/copy-tools.js)
+* Copy relative path _and_ current line number into clipboard (e.g. lib/copy-tools.js:7)
 
 I have found these two commands very useful when using tools like gdb/pdb/pytest to specify points
 where you need to break or specific files you wish to run.
