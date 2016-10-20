@@ -1,7 +1,7 @@
 {
   "name": "copy-tools",
   "main": "./lib/copy-tools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Copy useful editor information straight into your clipboard",
   "keywords": [
     "editor",
